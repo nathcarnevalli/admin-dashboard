@@ -1,6 +1,12 @@
 # admin-dashboard
 
-Dashboard design
+<p>it’s a dashboard design inspired on twitter's dashboard</p>
 
-Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Freepik - Flaticon</a>
+Live link: <a>https://nathcarnevalli.github.io/admin-dashboard/index.html</a>
+
+<h2>Image credits:</h2>
+
+<ul>
+  <li>Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a></li>
+  <li><a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Freepik - Flaticon</a></li>
+</ul>
