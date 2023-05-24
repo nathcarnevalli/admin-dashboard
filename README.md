@@ -1,6 +1,6 @@
 # Admin dashboard
 
-<p>it’s a admin dashboard design inspired on twitter's dashboard</p>
+<p>it’s an admin dashboard design inspired on twitter's dashboard</p>
 
 Live link: <a>https://nathcarnevalli.github.io/admin-dashboard/index.html</a>
 
