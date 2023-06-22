@@ -107,7 +107,8 @@ header {
 }
 
 .sidebar,
-a:visited {
+a:visited,
+a:active {
   color: var(--box-header-font2-color);
 }
 
