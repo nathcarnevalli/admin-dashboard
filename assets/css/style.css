@@ -154,7 +154,8 @@ main {
   padding: 2rem 8rem;
   align-items: center;
   align-content: flex-start;
-  gap: 2rem;
+  column-gap: 2rem;
+  align-items: baseline;
 }
 
 .tweets > div,
@@ -172,13 +173,11 @@ main {
     'title title'
     'tweet tweet';
   gap: 1.5rem;
-  align-content: flex-start;
-  align-self: flex-end;
+  align-items: stretch;
 }
 
 .tweets h2 {
   grid-area: title;
-  align-self: self-end;
 }
 
 .tweets > div {
@@ -197,6 +196,7 @@ main {
 .announcements {
   grid-area: announcements;
   align-self: flex-start;
+  padding-bottom: 1.5rem;
 }
 
 .announcements h2 {
